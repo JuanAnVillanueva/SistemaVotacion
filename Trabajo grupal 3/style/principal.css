@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,500&display=swap');
+
+nav{
+    background: linear-gradient(90deg, rgb(60, 193, 255) 0%, rgb(60, 193, 255) 35%, rgb(60, 193, 255) 100%);
+}
+h4{
+    color: rgb(139, 141, 143);
+}
+body{
+    font-family: 'Bricolage Grotesque', sans-serif;
+    background-image: 
+    linear-gradient( rgba(0, 0, 0, 0.589), rgba(0, 0, 0, 0.445)),
+    url(../img/vaner.png.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+.row{
+    background-image: 
+    linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+    padding: 30px 100px;
+    border-radius: 800px;
+}
+
